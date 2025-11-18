@@ -1,0 +1,7 @@
+{
+  "name": "Veritas & Associates - Legal Counsel",
+  "description": "A professional law firm website featuring practice areas, attorney profiles, appointment scheduling, and an integrated AI legal assistant for preliminary inquiries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
